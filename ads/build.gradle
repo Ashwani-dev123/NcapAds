@@ -141,8 +141,8 @@ afterEvaluate {
             appProdRelease(MavenPublication) {
                 from components.appProdRelease
                 groupId = 'com.github.Ashwani-dev123'
-                artifactId = 'NarayanAds'
-                version = '1.0.7'
+                artifactId = 'NcapAds'
+                version = '1.0.0'
             }
         }
     }
